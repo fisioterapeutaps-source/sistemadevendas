@@ -1,0 +1,6 @@
+#ferramentas utilizadas
+
+streamlit
+pandas
+plotly
+
